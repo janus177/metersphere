@@ -24,3 +24,4 @@
 - [社区分享丨蓝卓数字科技的MeterSphere使用分享](https://blog.fit2cloud.com/?p=146c107e-87f2-4aff-8601-751ccb92d3c7)
 - [社区分享｜云智天下的自动化测试落地与演进](https://blog.fit2cloud.com/?p=4949)
 - [案例分享｜民生科技基于MeterSphere平台实现测试用例复用](https://blog.fit2cloud.com/?p=2288)
+- [案例分享｜88完美邮箱全面提升产品质量的落地指南](https://blog.fit2cloud.com/?p=1573)
